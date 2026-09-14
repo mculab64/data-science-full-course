@@ -92,9 +92,7 @@ data-science-full-course/
 │   ├── wine.csv
 │   ├── aep_hourly.csv
 │   ├── temp_around.csv
-│   ├── precious_metal.csv
-│   ├── animals/                   # Изображения кошек и собак
-│   └── haar_cascades/             # XML-каскады Хаара
+│   └──precious_metal.csv
 │
 ├── part_1_theory/                 # Часть 1. Теория и инструменты
 │   ├── README.md
@@ -112,19 +110,8 @@ data-science-full-course/
 │   └── chapter_12_deployment/
 │
 └── part_2_practicum/              # Часть 2. Инженерный практикум
-    ├── README.md
-    ├── block_01_data_types/
-    ├── block_02_tools/
-    ├── block_03_preprocessing/
-    ├── block_04_visualization/
-    ├── block_05_statistics/
-    ├── block_06_eda/
-    ├── block_07_machine_learning/
-    ├── block_08_deep_learning/
-    ├── block_09_computer_vision/
-    ├── block_10_nlp/
-    ├── block_11_databases/
-    └── block_12_capstone_project/
+    └── README.md
+
 ```
 
 ---
