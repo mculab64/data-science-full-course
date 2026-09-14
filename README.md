@@ -78,11 +78,6 @@ data-science-full-course/
 ├── LICENSE                        # Лицензия MIT
 ├── requirements.txt               # Зависимости Python
 ├── .gitignore                     # Игнорируемые файлы
-├── CONTRIBUTING.md                # Как внести вклад
-├── CODE_OF_CONDUCT.md             # Правила поведения
-├── CHANGELOG.md                   # История изменений
-│
-├── assets/                        # Изображения для README
 │
 ├── datasets/                      # Все датасеты курса
 │   ├── iris.csv
